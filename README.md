@@ -1,4 +1,10 @@
-# UnityHawk
+# GodotHawk
+
+This project is an attempt to port the excellent suit of tools known as UnityHawk created by the plunderludics working group. 
+
+See the original project [here](https://github.com/plunderludics/unity-hawk).
+
+## UnityHawk
 
 ![demo](https://github.com/plunderludics/unity-hawk/assets/8207025/24774607-7bb0-4ba1-9130-4073f39bb883)
 
